@@ -1,4 +1,3 @@
-/* eslint-disable react/prop-types */
 import { Avatar } from '@material-ui/core';
 import React from 'react';
 import './Post.css';
